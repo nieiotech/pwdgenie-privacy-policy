@@ -1,109 +1,201 @@
-🔐 Privacy Policy for PwdGenie
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy | PwdGenie</title>
 
-Last updated: 06 January 2026
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+                   Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+      background-color: #0f172a;
+      color: #e5e7eb;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
 
-PwdGenie (“we”, “our”, or “the app”) respects your privacy. This Privacy Policy explains how your information is handled when you use the PwdGenie mobile application.
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 32px 20px;
+    }
 
-1. Information We Collect
+    h1, h2 {
+      color: #38bdf8;
+    }
 
-PwdGenie is designed with a privacy-first and offline-first architecture.
+    h1 {
+      margin-bottom: 8px;
+    }
 
-🔹 Information You Provide
+    .updated {
+      color: #9ca3af;
+      font-size: 14px;
+      margin-bottom: 24px;
+    }
 
-Passwords, notes, or data you create remain only on your device
+    ul {
+      padding-left: 20px;
+    }
 
-We do not collect, store, or transmit your passwords to any server
+    li {
+      margin-bottom: 8px;
+    }
 
-🔹 Automatically Collected Information
+    .section {
+      margin-bottom: 32px;
+    }
 
-PwdGenie does NOT collect:
+    .highlight {
+      background: #020617;
+      border-left: 4px solid #38bdf8;
+      padding: 12px 16px;
+      margin-top: 12px;
+    }
 
-Personal information (name, email, phone number)
+    footer {
+      text-align: center;
+      color: #9ca3af;
+      font-size: 14px;
+      padding: 24px 0;
+      border-top: 1px solid #1e293b;
+      margin-top: 40px;
+    }
 
-Location data
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
 
-Contacts
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
 
-Device identifiers
+  <div class="container">
 
-Usage analytics
+    <h1>🔐 Privacy Policy for PwdGenie</h1>
+    <div class="updated">Last updated: 06 January 2026</div>
 
-IP address
+    <div class="section">
+      <p>
+        PwdGenie (“we”, “our”, or “the app”) respects your privacy.
+        This Privacy Policy explains how your information is handled when you use
+        the PwdGenie mobile application.
+      </p>
+    </div>
 
-2. Data Storage & Security
+    <div class="section">
+      <h2>1. Information We Collect</h2>
+      <p>PwdGenie is designed with a <strong>privacy-first</strong> and <strong>offline-first</strong> architecture.</p>
 
-All generated passwords and related data are stored locally on your device
+      <div class="highlight">
+        <strong>Information You Provide</strong>
+        <ul>
+          <li>Passwords, notes, or data you create remain only on your device</li>
+          <li>We do <strong>not</strong> collect, store, or transmit your passwords to any server</li>
+        </ul>
+      </div>
 
-Data is protected using device-level security mechanisms
+      <div class="highlight">
+        <strong>Automatically Collected Information</strong>
+        <p>PwdGenie does <strong>NOT</strong> collect:</p>
+        <ul>
+          <li>Personal information (name, email, phone number)</li>
+          <li>Location data</li>
+          <li>Contacts</li>
+          <li>Device identifiers</li>
+          <li>Usage analytics</li>
+          <li>IP address</li>
+        </ul>
+      </div>
+    </div>
 
-Clipboard data (if used) may be automatically cleared for safety
+    <div class="section">
+      <h2>2. Data Storage & Security</h2>
+      <ul>
+        <li>All generated passwords and related data are stored locally on your device</li>
+        <li>Data is protected using device-level security mechanisms</li>
+        <li>Clipboard data (if used) may be automatically cleared for safety</li>
+        <li>Screenshots and screen recording may be restricted on supported devices</li>
+      </ul>
+    </div>
 
-Screenshots and screen recording may be restricted on supported devices
+    <div class="section">
+      <h2>3. Internet & Network Usage</h2>
+      <ul>
+        <li>Works fully offline</li>
+        <li>Does not communicate with external servers</li>
+        <li>Does not sync data to cloud services</li>
+      </ul>
+    </div>
 
-3. Internet & Network Usage
+    <div class="section">
+      <h2>4. Ads & Monetization (Future)</h2>
+      <p>Currently, PwdGenie does not show ads.</p>
+      <ul>
+        <li>Only Google Play–compliant ad networks will be used</li>
+        <li>Ads will not access your passwords or sensitive data</li>
+        <li>This Privacy Policy will be updated before ads are enabled</li>
+      </ul>
+    </div>
 
-PwdGenie:
+    <div class="section">
+      <h2>5. Third-Party Services</h2>
+      <p>PwdGenie does not use third-party SDKs that collect personal data.</p>
+      <p>If added in the future:</p>
+      <ul>
+        <li>They will comply with Google Play policies</li>
+        <li>Users will be informed via an updated Privacy Policy</li>
+      </ul>
+    </div>
 
-Works fully offline
+    <div class="section">
+      <h2>6. Children’s Privacy</h2>
+      <p>
+        PwdGenie does not knowingly collect data from children under 13.
+        Since no personal data is collected, the app is safe for general use.
+      </p>
+    </div>
 
-Does not communicate with external servers
+    <div class="section">
+      <h2>7. Your Rights</h2>
+      <ul>
+        <li>No personal data is collected or stored</li>
+        <li>Uninstalling the app removes all locally stored data</li>
+      </ul>
+    </div>
 
-Does not sync data to cloud services
+    <div class="section">
+      <h2>8. Changes to This Policy</h2>
+      <p>
+        We may update this Privacy Policy to reflect new features,
+        policy changes, or legal requirements.
+      </p>
+    </div>
 
-4. Ads & Monetization (Future)
+    <div class="section">
+      <h2>9. Contact Information</h2>
+      <p>
+        📧 Email: <strong>your-developer-email@example.com</strong><br/>
+        🌐 Website: <strong>https://YOUR_GITHUB_USERNAME.github.io/pwdgenie-privacy</strong>
+      </p>
+    </div>
 
-Currently, PwdGenie does not show ads.
+    <div class="section">
+      <h2>10. Consent</h2>
+      <p>By using PwdGenie, you agree to this Privacy Policy.</p>
+    </div>
 
-If ads are introduced in the future:
+    <footer>
+      © 2026 PwdGenie. Privacy-first by design.
+    </footer>
 
-Only Google Play–compliant ad networks will be used
+  </div>
 
-Ads will not access your passwords or sensitive data
-
-This Privacy Policy will be updated before ads are enabled
-
-5. Third-Party Services
-
-PwdGenie does not use third-party SDKs that collect personal data.
-
-If third-party services are added in the future (e.g., ads):
-
-They will comply with Google Play policies
-
-Users will be informed via an updated Privacy Policy
-
-6. Children’s Privacy
-
-PwdGenie does not knowingly collect data from children under 13.
-Since no personal data is collected, the app is safe for general use.
-
-7. Your Rights
-
-Because PwdGenie does not collect or store personal data:
-
-There is no personal data to access, export, or delete
-
-Uninstalling the app removes all locally stored data
-
-8. Changes to This Policy
-
-We may update this Privacy Policy to reflect:
-
-New features
-
-Policy changes
-
-Legal requirements
-
-Updates will be published on this page with a revised date.
-
-9. Contact Information
-
-If you have questions about this Privacy Policy:
-
-📧 Email: your-developer-email@example.com
-🌐 Website: https://YOUR_GITHUB_USERNAME.github.io/pwdgenie-privacy
-
-10. Consent
-
-By using PwdGenie, you agree to this Privacy Policy.
+</body>
+</html>
